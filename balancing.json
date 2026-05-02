@@ -1,0 +1,43 @@
+{
+  "normal": {
+    "walkspeed": 8,
+    "walkspeed_accel": 0.5,
+    "walkspeed_reset": 6,
+    "jump": {
+      "height": -11
+    }
+  },
+
+  "crouch": {
+    "walkspeed": 4,
+    "walkspeed_accel": 0.5,
+    "jump": {
+      "height": -8.8
+    }
+  },
+
+  "mach2": {
+    "accel": 0.1,
+    "speedcap": 12
+  },
+
+  "mach3": {
+    "accel": 0.025,
+    "speedcap": 16
+  },
+
+  "mach4": {
+    "accel": 0.1,
+    "speedcap": 20
+  },
+
+  "wallclimb": {
+    "accel": 0.1,
+    "speedcap": 20
+  },
+
+  "phantomStep": {
+    "dashes": 3,
+    "teleport_distance": 100
+  }
+}
