@@ -22,7 +22,7 @@
   },
 
   "mach3": {
-    "accel": 67,
+    "accel": 0.025,
     "speedcap": 16
   },
 
