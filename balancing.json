@@ -38,7 +38,9 @@
 
   "phantomStep": {
     "dashes": 3,
-    "teleport_distance": 100
+    "teleport_distance": 100,
+    "teleport_distance_charge": 3,
+    "teleport_distance_max": 200,
   },
 
   "version": 1.0
