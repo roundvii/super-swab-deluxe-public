@@ -44,11 +44,11 @@
   },
 
   "groundPound": {
-    "walkspeed": 7
+    "walkspeed": 7,
     "walkspeed_increment": 0.25,
     "walkspeed_increment_slow": 0.05,
     "jumpHeight": -12
-  }
+  },
 
   "version": 1.1
 }
